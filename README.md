@@ -11,6 +11,13 @@ Images
 We added 2 images from the web to show the people who quoted the service
 
 I did have a problem here though. I couldnt understand how on the code institute video the tutor just added a images folder and added the images.
-However I managed to somehow realise that I needed to download the images to my desktop, they add them to my repositortyin GITHUB.
-It was then when i tried to push my new updated code the teminal advised I needed to pull the images through first then re git add, re git push
-However my links are still notshowing in the browser - I have yet to work that out!
+However I managed to somehow realise that I needed to download the images to my desktop, they add them to my repository in GITHUB.
+It was then when I tried to push my new updated code the terminal advised I needed to pull the images through first then re git add, re git push
+However my links are still not showing in the browser - I have yet to work that out!
+
+So realised my images needed a different link, sorted that.
+
+Now onto Navbar and Modals.
+
+
+We used font awesome
